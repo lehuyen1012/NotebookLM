@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./index.css"; // Giả sử bạn có một file CSS riêng
 import WorkspaceCard from "./components/workspace_card.jsx";
-import Header from "./components/Header.jsx";
+import Header from "./components/header.jsx";
 import WorkspaceCreatorModal from "./components/workspace_creator_modal.jsx";
 import Workspaces from "./components/workspace.jsx";
 import WorkspaceEditor from "./components/workspace_editor.jsx";
